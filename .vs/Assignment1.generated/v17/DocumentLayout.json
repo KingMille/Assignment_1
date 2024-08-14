@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kingsley Anim\\Downloads\\Telegram Desktop\\Assignment1\\Assignment1\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33ABFFBE-17BE-4411-B09D-47E38E6323F3}|Assignment1.csproj|c:\\users\\kingsley anim\\downloads\\telegram desktop\\assignment1\\assignment1\\assignment1\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33ABFFBE-17BE-4411-B09D-47E38E6323F3}|Assignment1.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33ABFFBE-17BE-4411-B09D-47E38E6323F3}|Assignment1.csproj|c:\\users\\kingsley anim\\downloads\\telegram desktop\\assignment1\\assignment1\\assignment1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33ABFFBE-17BE-4411-B09D-47E38E6323F3}|Assignment1.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33ABFFBE-17BE-4411-B09D-47E38E6323F3}|Assignment1.csproj|c:\\users\\kingsley anim\\downloads\\telegram desktop\\assignment1\\assignment1\\assignment1\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33ABFFBE-17BE-4411-B09D-47E38E6323F3}|Assignment1.csproj|solutionrelative:components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Navbar.razor",
+              "DocumentMoniker": "C:\\Users\\Kingsley Anim\\Downloads\\Telegram Desktop\\Assignment1\\Assignment1\\Assignment1\\Components\\Layout\\Navbar.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\Navbar.razor",
+              "ToolTip": "C:\\Users\\Kingsley Anim\\Downloads\\Telegram Desktop\\Assignment1\\Assignment1\\Assignment1\\Components\\Layout\\Navbar.razor",
+              "RelativeToolTip": "Components\\Layout\\Navbar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T22:48:13.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Kingsley Anim\\Downloads\\Telegram Desktop\\Assignment1\\Assignment1\\Assignment1\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\Kingsley Anim\\Downloads\\Telegram Desktop\\Assignment1\\Assignment1\\Assignment1\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T22:37:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Kingsley Anim\\Downloads\\Telegram Desktop\\Assignment1\\Assignment1\\Assignment1\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Kingsley Anim\\Downloads\\Telegram Desktop\\Assignment1\\Assignment1\\Assignment1\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Pages\\Login.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T22:33:16.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
